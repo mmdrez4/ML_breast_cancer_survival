@@ -43,12 +43,6 @@ To interact with this project:
 2. Ensure you have Python installed along with the necessary libraries.
 3. Run the notebook in a Jupyter environment, executing cells sequentially to see the workflow and results.
 
-## Contributions
-Your contributions, suggestions, and questions are welcome! Feel free to fork the repo, submit pull requests, or open issues for discussion.
-
-## License
-This project is open-source, available under the MIT License. Feel free to use it for educational, research, or any other purposes.
-
 ---
 
 Thank you for visiting my project! I hope it offers valuable insights into the application of machine learning in healthcare and inspires further research in this vital area.
