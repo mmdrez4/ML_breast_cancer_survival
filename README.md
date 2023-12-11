@@ -26,7 +26,7 @@ A thorough EDA was performed for each dataset. For instance, in the clinical dat
 I carefully engineered features from the clinical data and gene expressions to make them more suitable for modeling and to enhance the predictive power of the machine learning algorithms.
 
 ### Model Development and Training
-I experimented with various machine learning models, fine-tuning each to best fit the data. My approach involved rigorous testing and validation to ensure the reliability and accuracy of the predictions.
+I experimented with various machine learning models. I have implemented a neural network model from scratch for clinical, gene expressions and reduced gene expressions datasets. My approach involved rigorous testing and validation to ensure the reliability and accuracy of the predictions.
 
 ## Results
 The models showed promising results in predicting breast cancer survival. I have included a detailed analysis of the model performance, backed by metrics and visualizations, in the notebook.
@@ -40,7 +40,7 @@ This project extensively uses Python and several of its libraries, such as:
 ## How to Run the Notebook
 To interact with this project:
 1. Clone the repository containing this Jupyter Notebook.
-2. Ensure you have Python installed along with the necessary libraries (listed in a `requirements.txt` file).
+2. Ensure you have Python installed along with the necessary libraries.
 3. Run the notebook in a Jupyter environment, executing cells sequentially to see the workflow and results.
 
 ## Contributions
